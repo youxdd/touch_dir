@@ -1,4 +1,6 @@
+    // 编辑了新的内容
 	function touClass(){
+
 		// 公有方法
 		this.touch = function(fn1,fn2){
 			this.addEventListener('touchstart',function(event){
